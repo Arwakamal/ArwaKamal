@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arwa</h1>
 <h3 align="center">Android developer</h3>
 
+<h2 align="center"> MY GITHUB STATS - 📣 </h2>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/ArwaKamal"><img src="https://github-readme-stats.vercel.app/api?username=ArwaKamal&count_private=true&show_icons=true&theme=radical" width="400" /></a>
+</p>
+
+<h2 align="center"> MOST USED LANGUAGES - 👨‍💻 </h2>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/ArwaKamal"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArwaKamal&theme=radical&layout=compact" width="400" /></a>
+</p>
 
 
 - 🔭 I’m currently working on an Asteroid Radar App
