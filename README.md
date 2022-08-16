@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arwa</h1>
 <h3 align="center">Android developer</h3>
+<p align="center">
+	<a target="_blank" href="https://github.com/ArwaKamal"><img src="https://komarev.com/ghpvc/?username=ArwaKamal&color=yellow" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
+	
+</p>
 
 <h2 align="center"> MY GITHUB STATS - 📣 </h2>
 
